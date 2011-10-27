@@ -27,7 +27,7 @@ Make sure you include the following CSS code on your website.
 	}
 
 ### HTML
-Place following HTML Code directly after the `<body>` tag.
+Place following HTML Code directly in your HTML `<body>`.
 
 	<!-- FitMyVideo -->
 	<div class="FitMyVideo-container">
