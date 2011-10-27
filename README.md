@@ -40,7 +40,7 @@ The video embed code will then be placed inside the `FitMyVideo-container` DIV. 
 ## Disclaimers
 
 ### Credits
-Please suppert humans.txt (http://humanstxt.org/). It's an initiative for knowing the people behind a website. It's a TXT file that contains information about the different people who have contributed to building the website.
+Please support humans.txt (http://humanstxt.org/). It's an initiative for knowing the people behind a website. It's a TXT file that contains information about the different people who have contributed to building the website.
 
 	FitMyVideo: https://github.com/niklausgerber/FitMyVideo
 	Niklaus Gerber
