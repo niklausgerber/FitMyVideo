@@ -2,7 +2,7 @@
 FitMyVideo is fully responsive and will run on all modern desktop- and mobile browsers with no additionals plugins.
 
 ## How it works?
-FitMyVideo needs following Components to work:
+FitMyVideo needs following components to work:
 
 ### CSS
 Make sure you include the following CSS code on your website.
