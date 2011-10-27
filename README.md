@@ -34,7 +34,7 @@ Place following HTML Code directly after the `<body>` tag.
 		<iframe src="http://player.vimeo.com/video/30421472?title=0&amp;byline=0&amp;portrait=0" width="546" height="307" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 	</div>
 
-The DIV `FitMyVideo-container` is the responisve container for the vide. You can also plase it inside another DIV if you like.
+The DIV `FitMyVideo-container` is the responisve container for the video. You can also place it inside another DIV if you like.
 The video embed code will then be placed inside the `FitMyVideo-container` DIV. That is all.
 
 ## Disclaimers
