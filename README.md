@@ -1,4 +1,4 @@
-## FitMyVideo, a lightweight and easy-to-use CSS solution for fluid width for video embeds.
+# FitMyVideo, a lightweight and easy-to-use CSS solution for fluid width for video embeds.
 FitMyVideo is fully responsive and will run on all modern desktop- and mobile browsers with no additionals plugins.
 
 ## How it works?
