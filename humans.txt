@@ -1,4 +1,4 @@
-﻿/* TEAM */
+/* TEAM */
 	
 /* THANKS */
 	FitMyVideo: https://github.com/niklausgerber/FitMyVideo
@@ -7,5 +7,5 @@
 	URL: www.gerbers.ch
 	Location: Bern, Switzerland
 
-/* SITE */	
+/* SITE */
 	
