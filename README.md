@@ -17,8 +17,8 @@ Make sure you include the following CSS code on your website.
 	}
 
 	.FitMyVideo-container iframe,	
-	.vFitMyVideo-container object,	
-	.vFitMyVideo-container embed {
+	.FitMyVideo-container object,	
+	.FitMyVideo-container embed {
 		position: absolute;
 		top: 0;
 		left: 0;
