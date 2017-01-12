@@ -1,5 +1,5 @@
 # FitMyVideo, a lightweight and easy-to-use CSS solution for fluid width for video embeds.
-FitMyVideo is fully responsive and will run on all modern desktop- and mobile browsers with no additionals plugins.
+FitMyVideo is fully responsive and will run on all modern desktop- and mobile browsers with no additional plugins.
 
 ## How it works?
 FitMyVideo needs following components to work:
@@ -34,7 +34,7 @@ Place following HTML Code directly in your HTML `<body>`.
 		<iframe src="http://player.vimeo.com/video/30421472?title=0&amp;byline=0&amp;portrait=0" width="546" height="307" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
 	</div>
 
-The DIV `FitMyVideo-container` is the responisve container for the video. You can also place it inside another DIV if you like.
+The DIV `FitMyVideo-container` is the responsive container for the video. You can also place it inside another DIV if you like.
 The video embed code will then be placed inside the `FitMyVideo-container` DIV. That is all.
 
 ## Disclaimers
@@ -54,3 +54,6 @@ Based on a work at github.com.
 
 ### Download, Fork, Commit.
 If you think you can make this better, please Download, Fork, & Commit. I'd love to see your ideas.
+
+## Donation
+I love to create and I won't ask for repayment. If you appreciate my work and would like to support me I am sure you will earn some extra Karma points. <a href="https://www.paypal.me/NiklausGerber" target="_blank" title="Please donate">Please donate</a>.
