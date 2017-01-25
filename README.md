@@ -47,8 +47,8 @@ Please support humans.txt (http://humanstxt.org/). It's an initiative for knowin
 	FitMyVideo: https://github.com/niklausgerber/FitMyVideo
 	Niklaus Gerber
 	Twitter: @niklausgerber
-	URL: www.gerbers.ch
-	Location: Bern, Switzerland
+	URL: https://www.niklausgerber.com
+	Location: Zürich, Switzerland
 	
 ### Licences
 FitMyVideo by Niklaus Gerber is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
